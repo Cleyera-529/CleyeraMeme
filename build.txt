@@ -1,0 +1,9 @@
+displayName = Cleyera's Meme Mod
+author = Cleyera
+version = 0.0.0.1
+homepage = https://discord.gg/vdzJRYc
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.apd, *.csproj, *.user, obj\*, bin\*, .vs\*, –¢Žg—p\*
+includePDB = false
